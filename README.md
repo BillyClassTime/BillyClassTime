@@ -2,7 +2,7 @@
 
 ### Hi I'm BillyClassTime, special GitHub from Training of IT and DEV 👋
 
-- 🔭 I’m currently working on Domotica Brotons https://domoticabrotons.es
+- 🔭 I’m currently working at Domotica Brotons https://domoticabrotons.es
 - 👯 I'm collaborating in several companies and academies. 
 - 📫 How to reach me: billy@billyclasstime.com
 
