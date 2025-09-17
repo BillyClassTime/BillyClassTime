@@ -35,13 +35,15 @@ Previously, I worked at [Domótica Brotons](https://domoticabrotons.es), where I
 
 ## 🎓 Certifications
 
-- **Microsoft Certified Trainer (MCT)** — 2002 – 2026, 20+ years delivering official Microsoft training worldwide.
+- **Microsoft Certified Trainer (MCT)** — 2002–2026, 20+ years delivering official Microsoft training worldwide.
 - **Microsoft Certified: DevOps Engineer Expert** — Advanced expertise in DevOps practices, CI/CD pipelines, and cloud deployment strategies.
 - **Microsoft Certified: Azure AI Engineer Associate** — Designing and implementing AI solutions on Microsoft Azure.
+- **Microsoft Certified: Azure Developer Associate** — Developing cloud applications and services with Azure using C#, JavaScript, and RESTful APIs.
 - **Microsoft Certified: Azure IoT Developer Specialty** — Building and integrating IoT solutions with Azure services.
-- **Microsoft Certified: Azure Fundamentals** — Core knowledge of cloud concepts and Azure services.
 - **Microsoft Certified: Azure Data Fundamentals** — Foundational understanding of data concepts and Azure data services.
 - **Microsoft Certified: Power Platform Fundamentals** — Creating business solutions with Power Apps, Power Automate, and Power BI.
+- **Microsoft Certified: Azure Fundamentals** — Core knowledge of cloud concepts and Azure services.
+
 
 ---
 
