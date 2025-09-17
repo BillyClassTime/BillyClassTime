@@ -50,7 +50,7 @@ Previously, I worked at [Domótica Brotons](https://domoticabrotons.es), where I
 ## 📫 Contact
 - **Email**: billy@billyclasstime.com  
 - **Website**: [billyclasstime.com](https://billyclasstime.com)  
-- **LinkedIn**: [linkedin.com/in/billyclasstime](https://linkedin.com/in/billyclasstime)
+- **LinkedIn**: [linkedin.com/in/billy-vanegas](https://linkedin.com/in/billy-vanegas)
 
 ---
 
