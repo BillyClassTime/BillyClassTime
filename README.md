@@ -8,7 +8,7 @@
 I am a technology consultant and project leader specializing in **Cloud Computing**, **Artificial Intelligence (AI)**, and the **Internet of Things (IoT)**.  
 I collaborate with multiple academies and also run my own online learning platform: [BillyClassTime LMS](https://lms.billyclasstime.com), where I deliver specialized programs and hands‑on training for professionals and companies.
 
-Previously, I worked at [Domótica Brotons](https://bmspa2024.azurewebsites.net/) where I gained extensive experience in smart automation systems and technology integration.
+Previously, I worked at [Brotons Domótica](https://bmspa2024.azurewebsites.net/) where I gained extensive experience in smart automation systems and technology integration.
 
 <p align="left">
   <a href="https://twitter.com/billy_vanegas" target="_blank">
